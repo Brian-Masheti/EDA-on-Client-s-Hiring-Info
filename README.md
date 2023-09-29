@@ -1,2 +1,1 @@
-# EDA-on-Client-s-Hiring-Info
-Exploratory Data Analysis on clients'Hiring Information
+Exploratory Data Analysis on Hiring Info
